@@ -28,7 +28,7 @@
 
     - Git add nos sirve para agregar archivos nuevos o modificados en nuestro directorio de trabajo al área de preparación de Git
 
-    - git commit -m prepara todos los archivos
+    - git commit -m genera una instancia que nos ayuda a registrar los cambios realizados en el repositorio local.
 
 4.  Abre una cuenta de github, si ya la tienes, enlazarla con el correo
     ![alt text](resources/image-3.png)
