@@ -6,7 +6,7 @@
 
 **Asignación:** Entregas laboratorios CVDS 2025-1
 
-**Asignatura:** Ciclos de Vida del desarrollo (CVDS)
+**Asignatura:** Ciclos de Vida del Desarrollo de Software (CVDS)
 
 **Docente:** Oscar David Ospina Rodriguez.
 
