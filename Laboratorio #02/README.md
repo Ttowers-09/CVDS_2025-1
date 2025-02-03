@@ -192,3 +192,8 @@
 22. Analice y asegúrese de entender cada una de las instrucciones que se encuentran en todas las clases que se crearon anteriormente. Cree el archivo ShapeFactory.java en el directorio src/main/java/edu/eci/cvds/patterns/shapes implementando el patrón fábrica (Hint: https://refactoring.guru/design-patterns/catalog), haciendo uso de la instrucción switch-case de Java y usando las enumeraciones.
 
     ¿Cuál fábrica hiciste? y ¿Cuál es mejor?
+
+- Nosotros implementamos el patrón de diseño simple factory, de la siguientye manera:
+    ![alt text](resources/image-39.png)
+
+    Sabemos que el código se ve bastante limpio y fácil de entender, además de eso permite el principio O de S.O.L.I.D puesto que si necesitamos más figuras esta abierto a modificación.
