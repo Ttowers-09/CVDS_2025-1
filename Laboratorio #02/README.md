@@ -197,3 +197,11 @@
     ![alt text](resources/image-39.png)
 
     Sabemos que el código se ve bastante limpio y fácil de entender, además de eso permite el principio O de S.O.L.I.D puesto que si necesitamos más figuras esta abierto a modificación.
+
+    Para ejecutar estas pruebas también se debió modificar el Pom.xml
+
+    ![alt text](resources/image-40.png)
+
+    Podemos ver el resultado de la prueba:
+    ![alt text](resources/image-41.png)
+    ![alt text](resources/image-42.png)
